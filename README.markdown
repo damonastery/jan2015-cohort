@@ -15,3 +15,8 @@ to add your photo into the students directory!
 - Copy a picture of yourself into the `students/` directory
 - Commit your changes (Remember: `git add` it and `git commit` it)
 - Push the branch `git push origin your-full-name-here`
+- Come back to the page that you're reading this on (the Github page for
+  this repository) and click the green button [see here](http://url.brentvatne.ca/15dFc)
+ - Write a message then click [Create pull request](http://url.brentvatne.ca/16hc6)
+
+Done!
